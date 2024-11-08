@@ -1,16 +1,16 @@
 # anime_app
 
-A new Flutter project.
+Nama : Wahyu Tri Sulistianto
 
-## Getting Started
+NIM : 32602200130
 
-This project is a starting point for a Flutter application.
+tugas : mobile programming
 
-A few resources to get you started if this is your first Flutter project:
+tema : anime tracking app
+link desain  :https://dribbble.com/shots/20791257-Anime-Tracking-App
+![original-c8d44f2f12343d97561e1f3162505454](https://github.com/user-attachments/assets/9fce4e34-9472-497d-96a2-910a523fd4c0)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+https://github.com/user-attachments/assets/9c1ff4b8-e357-42f8-93a1-a74cbe91c38d
+
